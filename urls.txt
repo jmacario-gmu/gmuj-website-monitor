@@ -1,0 +1,32 @@
+# Enter URLs to scan on separate lines.
+# Lines beginning with hash signs are comments.
+
+# Drupal Websites
+  https://www2.gmu.edu
+  https://volgenau.gmu.edu
+  https://cvpa.gmu.edu
+  https://chhs.gmu.edu
+  https://scar.gmu.edu
+  https://military.gmu.edu
+
+# WPEngine WordPress Websites
+  https://its.gmu.edu
+  https://cos.gmu.edu
+  https://facilities.gmu.edu
+  https://devitsgmu.wpengine.com
+  https://masonanalytics.gmu.edu
+  https://diversity.gmu.edu
+  # WPEngine sites that have reported 502 errors
+  https://fiscal.gmu.edu
+  https://masonacademy.gmu.edu
+
+# Other Websites
+  # Old Mason Website
+    https://www.gmu.edu/resources/facstaff/
+    https://www.gmu.edu/resources/students/
+  # CVPA
+    https://cfa.calendar.gmu.edu
+
+# Test Cases
+#  https://no-website.gmu.edu
+#  https://www2.gmu.edu/no-page
